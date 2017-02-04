@@ -38,12 +38,12 @@ this directory like the following (you'll have to replace the question marks):
 -->
 	<groupId>com.planbase.pdf</groupId>
 	<artifactId>PdfLayoutManager</artifactId>
-	<version>0.3.3</version>
+	<version>0.3.4</version>
 	<packaging>jar</packaging>
 
 	<name>PdfLayoutManager</name>
 	<description>A page-layout manager for PDFBox to do things like line-breaking, page-breaking, and tables. Uses a box-model for styles.</description>
-	<url>https://github.com/GlenKPeterson/PdfLayoutManager</url>
+	<url>https://github.com/Parz90/PdfLayoutManager</url>
 
 	<licenses>
 		<license>
@@ -60,9 +60,9 @@ this directory like the following (you'll have to replace the question marks):
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:https://github.com/GlenKPeterson/PdfLayoutManager.git</connection>
-		<developerConnection>scm:git:https://github.com/GlenKPeterson/PdfLayoutManager.git</developerConnection>
-		<url>https://github.com/GlenKPeterson/PdfLayoutManager.git</url>
+		<connection>scm:git:https://github.com/Parz90/PdfLayoutManager.git</connection>
+		<developerConnection>scm:git:https://github.com/Parz90/PdfLayoutManager.git</developerConnection>
+		<url>https://github.com/Parz90/PdfLayoutManager.git</url>
 	</scm>
 	<build>
 		<plugins>
