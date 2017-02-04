@@ -408,7 +408,7 @@ public class PdfLayoutMgr {
     /**
     Call this to commit the PDF information to the underlying stream after it is completely built.
     */
-    public void save(OutputStream os) throws IOException, COSVisitorException {
+    public void save(OutputStream os) throws IOException {
         doc.save(os);
         doc.close();
     }
